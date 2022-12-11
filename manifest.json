@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header":
+    {
+        "name": "§e§k[§r D31 §e§k]§r §l§aNight Vision §5Gamma§r v0.1.5",
+        "description": "§l§c[ATTENTION] -> §cThis isn't night vision shader!!\n§r§lSet brightness to §a100\n§rContact Me:\n§9Discord: §rJusttMe9515§r",
+        "uuid": "35759231-c9fc-467d-a8b1-ddf666ea81e0",
+        "version": [ 0, 1, 5 ],
+        "min_engine_version": [ 1, 18, 12 ]
+    },
+    
+    "modules":
+    [
+        {
+          "description": "",
+          "type": "resources",
+          "uuid": "1d079f48-e04e-43da-9822-1dcadfecc5c2",
+          "version": [ 0, 1, 5 ]
+        }
+    ]
+}
