@@ -16,3 +16,5 @@ This add-on just increasing gamma with texture and GUI editing!!
 - **Storage : _5MB free_**
 
 - **RAM : _2GB+ or 500MB free_**
+
+![](pic.jpg)
