@@ -7,6 +7,7 @@
 [D31 - NV (Beta).mcpack](https://www.mediafire.com/file/j2fausjbrw9xyg8/D31_-_NV_%2528BETA%2529.mcpack/file)
 
 ## **⚠️[ATTENTION]⚠️**
+> ***Only for Minecraft Pocket Edition***</br>
 > This isn't a night vision shader!!</br>
 This add-on just increasing gamma with texture and GUI editing!!
 
